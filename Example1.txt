@@ -1,3 +1,4 @@
 Add a line of code
 Add a new function from conflictBranch
+Add more stuff from conflictBranch
 Add another line of code
