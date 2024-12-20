@@ -1,3 +1,4 @@
 Add a line of code
+Add a new function from conflictBranch
 Add a new property from the master branch
 Add another line of code
